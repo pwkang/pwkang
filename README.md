@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 * 🌍  I'm based in Cheras, Malaysia
 * ✉️  You can contact me at [porweikang@hotmail.com](mailto:porweikang@hotmail.com)
-* 🚀  I'm currently working on [Sleekflow Website](http://sleekflow.io)
+* 🚀  I'm currently working fulltime at [Sleekflow](http://sleekflow.io)
 
 ### Skills
 
